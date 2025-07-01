@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo problemas desde 2023 ...<br>📚 Estou atualmente me aperfeiçoando em TS ...</p>
+<p align="left">✨ Resolvendo problemas desde 2023 <br>📚 Estou atualmente me aperfeiçoando em TS </p>
 
 ###
 
